@@ -1,3 +1,3 @@
 # zijinnyc.github.io
 
-Bootcamp
+Bootcamp is awesome
